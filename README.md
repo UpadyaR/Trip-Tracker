@@ -1,5 +1,5 @@
 # Trip Tracker
-This is a website for keeping track of your trips.<br><br>
+This is a website for keeping track of your trips built using HTML, TailwindCSS and Django.<br><br>
 You can create an account and add the details of your trips.
 <img src="image1.png"><br><br>
 You can always add new trips.
